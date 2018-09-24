@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="propel">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/data"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/general"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/admin"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/project"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/support"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/dailyactivities"/>
+                
+        <property name="context-root" value="propel"/>
+                
+        <property name="java-output-path" value="/propel/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>

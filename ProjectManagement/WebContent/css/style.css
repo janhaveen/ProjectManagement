@@ -1,0 +1,25 @@
+/* Your custom styles */
+.CompanyLogo{
+max-width: 80%;
+margin-top: -10%
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+margin: 0; 
+}
+
+.capitalizeText{
+text-transform:capitalize;
+}
+
+.capitalizeAllText{
+text-transform:uppercase;
+}
+
+.HideThisElement {
+display:none;
+}
